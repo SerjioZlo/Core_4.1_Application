@@ -1,3 +1,5 @@
-/.idea
-/out
-*.iml
+/service/target/
+ .idea
+ .gradle,
+ build
+ target
